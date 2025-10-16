@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "rs3-ai-bot-api",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "rs3-ai-bot-api-db",
+			"database_id": "9e59dfb4-bfba-4edd-9b8e-53095170f7e2"
+		}
+	]
+}
